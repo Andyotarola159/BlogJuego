@@ -9,7 +9,7 @@
 	background: saddlebrown;
 }
 
-.navegacion p a:hover{
+.navegacion p:hover a{
 	color: white;
 }
 .menu-opciones{
@@ -18,4 +18,10 @@
 }
 .juego{
 	margin-top: 40px;
+}
+.row img{
+	transition: 0.5s;
+}
+.row img:hover{
+	opacity: 0.84;
 }

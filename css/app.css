@@ -1,3 +1,20 @@
 .logo{
 	font-family: Helvetica;
 }
+.navegacion{
+	font-size: 1.2em;
+
+}
+.navegacion p:hover{
+	background: saddlebrown;
+}
+.navegacion p{
+	color: black;
+}
+.navegacion p a:hover{
+	color: white;
+}
+.menu-opciones{
+	display: inline;
+	padding: 10px;
+}

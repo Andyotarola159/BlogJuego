@@ -26,4 +26,12 @@
 .row img:hover{
 	opacity: 0.84;
 }
-
+.fa-bars{
+	display: none;
+}
+@media(max-width: 400px){
+	.fa-bars{
+		display: block
+	}
+	
+}

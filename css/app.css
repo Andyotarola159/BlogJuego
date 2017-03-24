@@ -29,6 +29,9 @@
 .fa-bars{
 	display: none;
 }
+.fa-bars2{
+	display: none;
+}
 @media(max-width: 400px){
 	.fa-bars{
 		display: block
